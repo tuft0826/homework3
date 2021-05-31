@@ -1,0 +1,33 @@
+.tieude {
+  color: palevioletred;
+  font-size: 45px;
+  width: 1000px;
+}
+p {
+  font-size: 20px;
+  font-family: sans-serif;
+  width: 900px;
+}
+.motaanh {
+  font-size: 15px;
+  color: grey;
+  background-color: lightgrey;
+  width: 700px;
+  border-style: ridge;
+  margin-top: 1px;
+}
+.linktinlq {
+  background-color: lightskyblue;
+  color: lightblue;
+  width: 600px;
+  font-family: serif;
+}
+h1,
+p,
+ul {
+  margin: 10px;
+  padding: 10px;
+}
+a {
+  font-family: fantasy;
+}
